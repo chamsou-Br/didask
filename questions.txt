@@ -1,0 +1,45 @@
+
+1. 1. Qu'est-ce qui te plaît dans la programmation ?
+
+Ce qui m'intéresse beaucoup dans la programmation, c’est l’idée de pouvoir transformer une idée 
+en quelque chose de concret en utilisant un langage spécifique. J’ai exploré le design et d’autres
+domaines au début, mais j’ai découvert que le développement, et la programmation en général,
+correspondent vraiment à ma personnalité. Être face à mon ordinateur, à réfléchir et à construire
+des solutions réelles à partir de lignes de code, c'est ce qui me passionne profondément
+
+-----------------------------------------------------------------------------------------------------
+
+2. Explique à quoi servent les promises en Javascript, apporte le plus de précisions possible
+
+Une promise on peut dire c une garantie que l'on va produire une valeur dans le futur, ce qui permet de gérer
+les opérations asynchrones qui nécessitent du temps. Bien sûr, on peut se retrouver soit dans le cas 
+de réussite, soit dans le cas d'échec de notre opération asynchrone. Généralement, on utilise await,
+async, then et catch pour travailler avec les promises.
+
+------------------------------------------------------------------------------------------------------
+
+3. Ta meilleure idée pour révolutionner le monde du LMS
+
+J'ai pas bien compris cette question-là. Je vais essayer de répondre en fonction de ma compréhension : 
+je pense que pour bien renforcer le domaine des systèmes de management, il faut utiliser l'IA.
+c'est déjà le domaine qui fait une révolution à tous les autres domaines. Dans ce cas-là, 
+on a besoin d'utiliser le reinforcement learning pour développer un système qui apprend avec 
+le temps et donc améliorer la gestion selon les besoins et selon l'environnement.
+
+------------------------------------------------------------------------------------------------------
+
+4. Parle-nous de ton projet informatique dont tu tires le plus de fierté (on adore les détails)
+
+L'année dernière, j'ai démarré un projet en freelance avec une startup, en tant que développeur full-stack,
+ pour mes débuts dans le monde professionnel. Nous avons utilisé React, Node.js, PostgreSQL et TypeScript
+ pour créer une plateforme visant à sécuriser et faciliter les transactions entre vendeurs, acheteurs 
+ et sociétés de livraison. L'idée repose sur l'utilisation d'un code secret pour chaque commande : 
+ le client reçoit ce code par SMS ou email, et le livreur le valide lors de la livraison, et on a ajouter les 
+ contraintes suivants : 
+ - Le produit ne vous plaît pas, ne validez pas. Ce sera un retour, et vous serez entièrement remboursé(e).
+ - Vous avez 24h pour déposer une réclamation. Si vous trouvez des défauts, faites une réclamation sur notre plateforme dans les 24 heures.
+ - Obtenez échange ou un remboursement Une fois la réclamation déposée, vous étes certain d'obtenir un échange ou un remboursement.
+ Ce système nous permet de jouer un rôle d'intermédiaire entre les trois profils pour garantir 
+ les droits de chacun. La plateforme comprend un espace web avec quatre profils différents : 
+ une application pour les vendeurs, une pour les acheteurs, une pour les sociétés de livraison, 
+ et une pour l'administration. Vous pouvez consulter le projet à l'adresse suivante : https://paypart.dz/.
