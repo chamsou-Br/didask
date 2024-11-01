@@ -20,11 +20,14 @@ async, then et catch pour travailler avec les promises.
 
 3. Ta meilleure idée pour révolutionner le monde du LMS
 
-J'ai pas bien compris cette question-là. Je vais essayer de répondre en fonction de ma compréhension : 
-je pense que pour bien renforcer le domaine des systèmes de management, il faut utiliser l'IA.
-c'est déjà le domaine qui fait une révolution à tous les autres domaines. Dans ce cas-là, 
+Je pense que pour bien renforcer le domaine des systèmes de management, il faut utiliser l'IA. 
+C'est déjà le domaine qui fait une révolution dans tous les autres domaines. Dans ce cas-là, 
 on a besoin d'utiliser le reinforcement learning pour développer un système qui apprend avec 
 le temps et donc améliorer la gestion selon les besoins et selon l'environnement.
+Aussi pour l'e-learning, on peut par exemple ajouter des algorithmes de ML pour l'adapter 
+selon le comportement et les performances des apprenants, et donc le personnaliser. Créer un 
+chatbot qui peut répondre aux questions des apprenants, utiliser la generative IA pour faciliter 
+la génération de questions, et même ajouter des fonctionnalités de réalité virtuelle.
 
 ------------------------------------------------------------------------------------------------------
 
